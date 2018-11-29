@@ -139,7 +139,7 @@
             <div class="col-xs-3">
 
                 <select class="form-control input-sm" name="color" id="color" style="display:none;">
-                    <option value="">Color:</option>
+                    <option value="">Colorr:</option>
                     <?php
                     foreach ($colores as $color_values){
                         $SELECTED = (isset($_POST['color']) && ($_POST['color'] == $color_values['ID'])) ? 'SELECTED' : '';
