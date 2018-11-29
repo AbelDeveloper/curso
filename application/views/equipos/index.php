@@ -125,7 +125,7 @@
             </div>
             <div class="col-xs-3">
                 <select class="form-control input-sm" name="OSIPTEL_ESTADOS" id="OSIPTEL_ESTADOS">
-                    <option value="">Estado Osiptel:</option>
+                    <option value="">Estadoooo Osiptel:</option>
                     <?php
                     foreach ($osiptel_estados as $osiptel_estados_values){
                         $SELECTED = (isset($_POST['OSIPTEL_ESTADOS']) && ($_POST['OSIPTEL_ESTADOS'] == $osiptel_estados_values['ID'])) ? 'SELECTED' : '';
