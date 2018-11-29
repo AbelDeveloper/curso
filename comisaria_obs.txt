@@ -1,0 +1,3 @@
+cambiar a  2  estadistico 
+agregar campos 10-1 10-2 10-3
+
